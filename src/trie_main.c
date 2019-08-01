@@ -17,7 +17,8 @@ int main(){
 
   trieNode* root = NULL; // trie resides here
   trie_insert(&root,"award",1);
-  trie_insert(&root,"acab",2);
+  trie_insert(&root,"acapella",2);
+  trie_insert(&root,"acapella",5);
   trie_insert(&root,"arizona",3);
   trie_insert(&root,"awe",4);
 
