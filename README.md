@@ -8,7 +8,7 @@ The trie implemented is used as an inverted index for a [search engine](https://
 and create the following trie:
 
 ![Trie](https://github.com/VangelisGara/Trie/blob/master/trie%20image/Screenshot_20190805_004837.png)
-Each word stored in the trie has appended in the end a post list, a list, with nodes that contain the id the word exists and the word frequency on this document.
+Each word stored in the trie has appended in the end a post list, a list, with nodes that contain the id of the document that the word exists and the word frequency on this document.
 
 To compile & execute:
 
